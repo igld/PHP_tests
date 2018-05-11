@@ -6,7 +6,6 @@ echo "J'ai 46 ans je suis David.";
 
 
 
-<?php
 $age = 46;
 
 if ($age >= 46)
