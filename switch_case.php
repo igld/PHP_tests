@@ -1,5 +1,5 @@
 <?php
-$note = 10;
+$note = 16;
 
 switch ($note) // on indique sur quelle variable on travaille
 { 
